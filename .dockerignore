@@ -1,0 +1,5 @@
+.vagrant
+.git
+Makefile
+README.md
+Vagrantfile
